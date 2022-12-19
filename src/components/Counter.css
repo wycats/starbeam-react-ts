@@ -1,0 +1,13 @@
+pre span:nth-child(1),
+h3.count1 {
+  color: hsl(0, 70%, 50%);
+}
+
+pre span:nth-child(2),
+h3.count2 {
+  color: hsl(100, 50%, 40%);
+}
+
+pre span:nth-child(3) {
+  color: hsl(200, 70%, 50%);
+}
